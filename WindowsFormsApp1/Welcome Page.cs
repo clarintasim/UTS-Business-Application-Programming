@@ -100,5 +100,10 @@ namespace WindowsFormsApp1
                 new Admin_Control(conString).Show();
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
